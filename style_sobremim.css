@@ -6,7 +6,8 @@
 }
 
 body {
-    background-color: rgb(197, 207, 207);
+    background: #2A7B9B;
+    background: radial-gradient(circle,rgba(42, 123, 155, 1) 0%, rgba(5, 43, 20, 1) 56%, rgba(237, 221, 83, 1) 1000%);
 }
 
 h1{
